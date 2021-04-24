@@ -1,6 +1,6 @@
 # Metroswap Frontend
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/nostalgic-clarke-ad13ab/deploy-status)](https://app.netlify.com/sites/uniswap/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d6cd44ef-c9e1-4d93-a395-b77449bda29e/deploy-status)](https://app.netlify.com/sites/nostalgic-clarke-ad13ab/deploys)
 [![Build Status](https://travis-ci.org/Uniswap/uniswap-frontend.svg)](https://travis-ci.org/Uniswap/uniswap-frontend)
 [![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
