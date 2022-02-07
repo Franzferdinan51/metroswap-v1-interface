@@ -683,6 +683,13 @@ export const INITIAL_TOKENS_CONTEXT = {
       [SYMBOL]: 'DAI',
       [DECIMALS]: 18,
       [EXCHANGE_ADDRESS]: '0xaF51BaAA766b65E8B3Ee0C2c33186325ED01eBD5'
+    },
+     {
+    '0xc669928185dbce49d2230cc9b0979be6dc797957': {
+      [NAME]: 'BitTorrent_Ethereum',
+      [SYMBOL]: 'BTT_e',
+      [DECIMALS]: 18,
+      [EXCHANGE_ADDRESS]: '--' //unknown??
     }
   }
 }
